@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: "Avenir Next", avenir, "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    background-image: url(https://download.unsplash.com/photo-1429623077761-9635d93ddd02);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+}
+
+.outer {
+    height: 100%;
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+
+.inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1,
+h3 {
+    font-weight: 100;
+}
+h3 {
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+a {
+    margin: 10px 0 10px 0;
+    color: #333;
+    background-color: #fff;
+    padding: 10px 40px 10px 40px;
+    border-radius: 4px;
+    text-decoration: none;
+    letter-spacing: 4px;
+    font-size: 12px;
+}
