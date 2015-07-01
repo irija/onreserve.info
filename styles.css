@@ -8,7 +8,8 @@ body {
     height: 100%;
     width: 100%;
     font-family: "Avenir Next", avenir, "Helvetica Neue", "Helvetica", Arial, sans-serif;
-    background-image: url(https://download.unsplash.com/photo-1429623077761-9635d93ddd02);
+    background-image: url(https://cloud.githubusercontent.com/assets/13107499/8442185/236025ba-1f32-11e5-8016-20fe0c23c754.jpg);
+    /* background image credit: Luis Llerena via http://unsplash.com/negativespace */
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
